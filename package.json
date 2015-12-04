@@ -1,0 +1,11 @@
+{
+  "name": "atom-smh_kate_theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Samuel M.H.'s Kate theme",
+  "repository": "https://github.com/samuelmh/atom-smh_kate_theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
